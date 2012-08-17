@@ -6,7 +6,7 @@ Visual Studio 2012 taskbar build progress. Inspired by  https://github.com/alast
 
 - Compile
 - Copy contents to ``` My Documents\Visual Studio 2012\AddIns ```
-- Open Visual Studio 2012 and watch the taskbar
+- Open Visual Studio 2012 and watch the taskbar the next time you compile a project
 
 ## Prerequisites
 
